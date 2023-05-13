@@ -1,6 +1,6 @@
-## 👨‍💼 Hi, thank you for visiting my profile
+## Thank you for visiting my profile
 
-I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, Next.js, Redux, Vue.js, Node), Blockchain(Bitcoin, Ethereum, Cosmos, Solidity, Rust), Golang, Python among others.
+As Full-Stack developer who's proficient in JavaScript/Typescript (React, Next.js, Redux, Vue.js, Node), Blockchain(Bitcoin, Ethereum, Cosmos, Solidity, Rust), Golang, Python and Ruby.
 Since I've graduated the university, I’ve joined several companies and dev teams to build web/mobile and web3 apps.
 
 Nowadays I am passionate about blockchain technologies so that I'm mainly focusing on the application-special blockchain with Cosmos SDK/Tendermint/CometBFT, IBC integration and Defi/dApp development with CosmWasm, CosmJS.
