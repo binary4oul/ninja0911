@@ -1,4 +1,4 @@
-## Thank you for visiting my profile
+## Thank you for coming to see my profile.
 
 As a Full-Stack developer who's proficient in JavaScript/Typescript (React, Next.js, Redux, Vue.js, Node), Blockchain(Bitcoin, Ethereum, Cosmos, Solidity, Rust), Golang, Python and Ruby, I bring a wealth of experience to any development team. Since I've graduated from university, I’ve joined several companies and dev teams to build web/mobile and web3 apps.
 
