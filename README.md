@@ -1,9 +1,10 @@
 ## Thank you for visiting my profile
 
-As Full-Stack developer who's proficient in JavaScript/Typescript (React, Next.js, Redux, Vue.js, Node), Blockchain(Bitcoin, Ethereum, Cosmos, Solidity, Rust), Golang, Python and Ruby.
-Since I've graduated the university, I’ve joined several companies and dev teams to build web/mobile and web3 apps.
+As a Full-Stack developer who's proficient in JavaScript/Typescript (React, Next.js, Redux, Vue.js, Node), Blockchain(Bitcoin, Ethereum, Cosmos, Solidity, Rust), Golang, Python and Ruby, I bring a wealth of experience to any development team. Since I've graduated from university, I’ve joined several companies and dev teams to build web/mobile and web3 apps.
 
-Nowadays I am passionate about blockchain technologies so that I'm mainly focusing on the application-special blockchain with Cosmos SDK/Tendermint/CometBFT, IBC integration and Defi/dApp development with CosmWasm, CosmJS.
+Nowadays, I am passionate about blockchain technologies, so I'm mainly focusing on the application-special blockchain with Cosmos SDK/Tendermint/CometBFT, IBC integration, and Defi/dApp development with CosmWasm, CosmJS. My experience in blockchain development has given me a deep understanding of the technology and its potential to revolutionize industries.
+
+I am a quick learner and always eager to take on new challenges. I am confident that my skills and experience make me a valuable asset to any development team. I am excited about the opportunity to work with like-minded individuals who share my passion for blockchain technologies and to contribute to the development of innovative solutions that can make a real difference in the world.
 
 <img align="right" alt="GIF" src="https://github.com/MosFazli/MosFazli/blob/main/assets/zeig-infotech-seo-gif.gif" width="400" height="256" />
 
