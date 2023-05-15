@@ -8,13 +8,6 @@ I am a quick learner and always eager to take on new challenges. I am confident 
 
 <img align="right" alt="GIF" src="https://github.com/MosFazli/MosFazli/blob/main/assets/zeig-infotech-seo-gif.gif" width="400" height="256" />
 
-- 🌱 I’m currently learning blockchain technologies - Cosmos SDK, IBC, Tendermint
-- 🤔 I’m looking to help with buliding defi and web apps
-- 💬 Ask me about web and blockchain development
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Coding, Gaming
-- 🏰 Strong: Strategic Game
-
 
 ### Languages and Tools:
 
